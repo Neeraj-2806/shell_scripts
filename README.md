@@ -1,2 +1,2 @@
 # shell_scripts
-Shell scripts for devops engineer
+Shell scripts for devops engineer for day to day operations
